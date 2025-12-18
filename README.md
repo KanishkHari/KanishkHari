@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced SQL, machine learning model evaluation, and building cleaner, more scalable data pipelines.
 - 👯 I’m looking to collaborate on data science or machine learning projects, especially those involving real-world datasets and meaningful impact.
 - 💬 Ask me about SQL, pandas, machine learning projects, or NBA analytics.
-- 📫 How to reach me: kanishkharicollege@gmail.com | linkedin.com/in/kanishk-hari
+- 📫 How to reach me: kanishkharicollege@gmail.com | [linkedin.com/in/kanishk-hari](https://www.linkedin.com/in/kanishk-hari/)
 - ⚡ Fun fact: I enjoy using data to uncover patterns in sports and real-world systems.
 
 ## 🌐 Socials:
