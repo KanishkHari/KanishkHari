@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on data science projects involving SQL, pandas, MongoDB, and machine learning.
-🌱 I’m currently learning advanced SQL, machine learning model evaluation, and building cleaner, more scalable data pipelines.
-👯 I’m looking to collaborate on data science or machine learning projects, especially those involving real-world datasets and meaningful impact.
-💬 Ask me about SQL, pandas, machine learning projects, or NBA analytics.
-📫 How to reach me: kanishkharicollege@gmail.com | linkedin.com/in/kanishk-hari
-⚡ Fun fact: I enjoy using data to uncover patterns in sports and real-world systems.
+- 🔭 I’m currently working on data science projects involving SQL, pandas, MongoDB, and machine learning.
+- 🌱 I’m currently learning advanced SQL, machine learning model evaluation, and building cleaner, more scalable data pipelines.
+- 👯 I’m looking to collaborate on data science or machine learning projects, especially those involving real-world datasets and meaningful impact.
+- 💬 Ask me about SQL, pandas, machine learning projects, or NBA analytics.
+- 📫 How to reach me: kanishkharicollege@gmail.com | linkedin.com/in/kanishk-hari
+- ⚡ Fun fact: I enjoy using data to uncover patterns in sports and real-world systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-hari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkhari0@gmail.com) 
