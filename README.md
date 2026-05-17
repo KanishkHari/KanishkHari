@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about SQL, pandas, machine learning projects, or NBA analytics.
 - 📫 How to reach me: kanishkhari0@gmail.com | [linkedin.com/in/kanishk-hari](https://www.linkedin.com/in/kanishk-hari/)
 - ⚡ Fun fact: I enjoy using data to uncover patterns in sports and real-world systems.
-
+<!---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-hari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkhari0@gmail.com) 
 
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KanishkHari&icon=0&color=2)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
